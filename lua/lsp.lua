@@ -1,4 +1,4 @@
-...  -- rest of the configuration
+-- rest of the configuration
 -- Remove Global Default Key mapping
 vim.keymap.del("n", "grn")
 vim.keymap.del("n", "gra")
